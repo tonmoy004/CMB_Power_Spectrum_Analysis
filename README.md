@@ -114,6 +114,15 @@ Reduced Chi-square values close to unity indicate good agreement between the the
 
 ---
 
+
+## Zenodo Release
+
+This repository is archived on Zenodo for reproducibility and citation.
+
+---
+
+
+
 ## Author
 
 **Tonmoy Goswami**
