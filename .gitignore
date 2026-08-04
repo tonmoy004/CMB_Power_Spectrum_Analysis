@@ -1,0 +1,57 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled extensions
+*.so
+*.pyd
+*.dll
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Python environment files
+.python-version
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Generated cache
+.cache/
